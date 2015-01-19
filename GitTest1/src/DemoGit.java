@@ -31,4 +31,8 @@ public class DemoGit {
 		
 		System.out.println("Test 2");
 	}
+	public void test3() {
+		
+		System.out.println("Test 3");
+	}
 }
