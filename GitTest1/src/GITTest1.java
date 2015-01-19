@@ -5,7 +5,7 @@ public class GITTest1 {
 		// TODO Auto-generated method stub
 
 		DemoGit t = new DemoGit();
-		t.test();
+		t.test2();
 		
 	}
 
