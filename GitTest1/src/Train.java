@@ -26,8 +26,7 @@ public class Train {
 	}
 
 	public String getJSON() {
-		return name;
-		//return "{serial:" + serial + "name: " + name + "model: " + model +"}";
+		return "{serial:" + serial + "name: " + name + "model: " + model +"}";
 
 	}
 }
