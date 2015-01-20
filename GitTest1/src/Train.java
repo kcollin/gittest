@@ -24,6 +24,9 @@ public class Train {
 	public void setModel(String model) {
 		this.model = model;
 	}
+	public String getJSON() {
+		return "{serial:" + serial + "name: " + name + "model: " + model +"}";
+	}
 }
 
 
